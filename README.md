@@ -44,23 +44,22 @@ Follow the steps below to set up the project on your local machine:
 ---
 
 
-faq assistant/
+faq_assistant/
+├── app.py
+├── config.json
+├── config.py
+├── __pycache__/
+│   ├── <compiled Python files> 
+├── .ipynb_checkpoints/
+│   ├── <checkpoint files>  
+├── templates/
+│   ├── index.html
+├── static/
+│   ├── styles.css
+│   ├── script.js
+├── data/
+│   ├── knowledge_base.json
 
-│── app.py
-│── config.json
-│── config.py
-│── __pycache__/
-│   ├── index.html  
-│── .ipynb_checkpoints/
-│   ├── config.cpython-312     
-│   ├── config-checkpoint       
-│── templates/
-│   ├── index.html     
-│── static/
-│   ├── styles.css     
-│   ├── script.js      
-│── data/
-│   ├── knowledge_base.json 
 
 ---
 
