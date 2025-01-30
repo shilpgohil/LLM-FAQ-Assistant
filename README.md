@@ -43,7 +43,9 @@ Follow the steps below to set up the project on your local machine:
 
 ---
 
+
 faq assistant/
+
 │── app.py             
 │── config.json
 │── config.py
