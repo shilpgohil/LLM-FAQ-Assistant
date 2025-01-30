@@ -37,6 +37,28 @@ Follow the steps below to set up the project on your local machine:
     ```bash
     python app.py
     ```
+---
+
+## File Structure
+```
+faq-assistant/
+│── app.py             
+│── config.json
+│── config.py
+│── __pycache__/
+│   ├── index.html  
+│── .ipynb_checkpoints/
+│   ├── config.cpython-312     
+│   ├── config-checkpoint       
+│── templates/
+│   ├── index.html     
+│── static/
+│   ├── styles.css     
+│   ├── script.js      
+│── data/
+│   ├── knowledge_base.json 
+
+---
 
 2. Open your web browser and go to [http://localhost:5000](http://localhost:5000) to see the app in action.
 
