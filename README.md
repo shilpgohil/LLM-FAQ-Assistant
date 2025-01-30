@@ -40,7 +40,9 @@ Follow the steps below to set up the project on your local machine:
 ---
 
 ## File Structure
-```
+
+---bash
+
 faq-assistant/
 │── app.py             
 │── config.json
