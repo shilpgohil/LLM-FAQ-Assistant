@@ -3,12 +3,11 @@ Leveraging LLM/GenAI to Build a Flask-based Intelligent FAQ Assistant
 # Flask Project
 
 ## Overview
-This project is a simple Flask web application designed to demonstrate basic web functionalities like handling requests and rendering templates. It can serve as a starting point for building more complex Flask-based applications.
+This project is a simple Flask web application designed to demonstrate basic web functionalities like handling requests and rendering templates. It can serve as a starting point for building more complex Flask based applications.
 
 ## Technologies Used
 - **Python 3.x**
 - **Flask**
-- Any other libraries you might be using (e.g., Jinja2, SQLAlchemy)
 
 ## Installation Instructions
 Follow the steps below to set up the project on your local machine:
@@ -81,4 +80,4 @@ Example:
 Feel free to fork the repository and submit pull requests if you'd like to contribute. Please make sure your contributions follow the project's coding style and include tests where applicable.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License ..see the [LICENSE.md](LICENSE.md) file for details.
